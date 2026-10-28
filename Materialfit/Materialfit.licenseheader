@@ -9,7 +9,7 @@ extensions: .vb
 'Sample license text.
 extensions:  .xml .config .xsd
 <!--
-Copyright 2015 Minkyu Ko
+Copyright 2015 KoMinkyu
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
